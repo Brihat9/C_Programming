@@ -1,0 +1,4 @@
+C     PROGRAM TO NOTHING
+      WRITE(*,*) HELLO WORLD
+      STOP
+      END
